@@ -1,0 +1,6 @@
+C:\_Publish\Crawly\CrawlerProject.exe
+C:\_Publish\Crawly\CrawlerProject.dll
+C:\_Publish\Crawly\CrawlerProject.deps.json
+C:\_Publish\Crawly\CrawlerProject.runtimeconfig.json
+C:\_Publish\Crawly\CrawlerProject.pdb
+C:\_Publish\Crawly\HtmlAgilityPack.NetCore.dll

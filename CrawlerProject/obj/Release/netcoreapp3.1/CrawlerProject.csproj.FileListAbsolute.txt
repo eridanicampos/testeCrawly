@@ -1,0 +1,15 @@
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\CrawlerProject.exe
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\CrawlerProject.deps.json
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\CrawlerProject.runtimeconfig.json
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\CrawlerProject.runtimeconfig.dev.json
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\CrawlerProject.dll
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\CrawlerProject.pdb
+C:\_Source\CrawlerProject\bin\Release\netcoreapp3.1\HtmlAgilityPack.NetCore.dll
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.csproj.AssemblyReference.cache
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.AssemblyInfoInputs.cache
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.AssemblyInfo.cs
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.csproj.CoreCompileInputs.cache
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.csproj.CopyComplete
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.dll
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.pdb
+C:\_Source\CrawlerProject\obj\Release\netcoreapp3.1\CrawlerProject.genruntimeconfig.cache
